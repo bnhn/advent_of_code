@@ -1,2 +1,2 @@
-# AoC2022
-Advent of code submissions for 2022
+# [Advent of Code](https://adventofcode.com)
+Repo of advent of code submissions
